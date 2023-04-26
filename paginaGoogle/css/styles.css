@@ -42,11 +42,13 @@ body {
     display: flex;
     margin-left: 4%;
     margin-top: -0.5%;
+    font-size: 85%;
 }
 
 .cabecera5 {
     margin-left: 0.8%;
     margin-top: -0.5%;
+    font-size: 85%;
 }
 .cabecera6 {
 
