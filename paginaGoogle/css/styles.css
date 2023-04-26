@@ -13,7 +13,6 @@ body {
 
 .cabecera {
     display: flex;
-    background-color: blue;
     height: 8%;
     width: 100vw;
     align-items: center;
@@ -23,48 +22,44 @@ body {
 }
 
 .cabecera1 {
-    border: 0.16em black solid;
     padding: 1.2%;
     width: 8%;
 }
 
 .cabecera2 {
-    border: 0.16em black solid;
     display: flex;
-    margin-left: 0.08%;
+    margin-right: 25%;
+   
 }
 .cabecera3 {
-    border: 0.16em black solid;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 78%;
 }
 
-.cabecera4 { 
-    border: 0.16em black solid;
+.cabecera4 {
     display: flex;
     margin-left: 4%;
+    margin-top: -0.5%;
 }
 
 .cabecera5 {
-    border: 0.16em black solid;
     margin-left: 0.8%;
+    margin-top: -0.5%;
 }
 .cabecera6 {
-    border: 0.16em black solid;
+
     margin: 0;
     padding: 0;
 }
 .cabecera8 {
-    border: 0.16em black solid;
     margin: 0;
     padding: 0;
 }
 
 .central {
     display: flex;
-    background-color: green;
     width: 100%;
     height: 83%;
     flex-direction: row;
@@ -74,7 +69,6 @@ body {
     display: flex;
     height: 100%;
     width: 20%;
-    background-color: red;
 }
 .centralcen {
     display: flex;
@@ -88,7 +82,6 @@ body {
     display: flex;
     height: 100%;
     width: 20%;
-    background-color: red;
 }
 
 .logogoogle {
